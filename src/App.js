@@ -7,8 +7,6 @@ function App(){
       <div>
         <h1>{counter}</h1>
         <h4>{counter}</h4>
-        <h1>{counter}</h1>
-
       </div>
     )
 }
